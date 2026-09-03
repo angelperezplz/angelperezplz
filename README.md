@@ -1,4 +1,4 @@
-# Ángel A. Pérez 🏔️🛡️
+# Ángel A. Pérez
 
 **Founder & CEO | Systems Architect & Deep-Tech Researcher**
 
