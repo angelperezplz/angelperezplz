@@ -37,4 +37,4 @@ Systems Architect, Scientist, and Serial Entrepreneur engineering the future of 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelperezplz)
 
-*"We are not just building software; we are engineering a legacy. Stay Elite."*
+**"We are not just building software; we are engineering a legacy. Stay Elite."**
