@@ -1,4 +1,4 @@
-# Angel A. Pérez
+# Angel Alejandro Pérez
 
 **Founder & CEO | Systems Architect & Deep-Tech Researcher**
 
@@ -35,6 +35,6 @@ Systems Architect, Scientist, and Serial Entrepreneur engineering the future of 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/angelsentis) | [Instagram](https://www.instagram.com/angelperezplz)
+[LinkedIn](https://www.linkedin.com/in/angelalejandroprz) | [X(Twitter)](https://x.com/angelaleprz)
 
 **"We are not just building software; we are engineering a legacy. Stay Elite."**
